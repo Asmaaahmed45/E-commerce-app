@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/activity_cart.xml" value="0.12364130434782608" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/activity_fullscreen.xml" value="0.182518115942029" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/activity_login.xml" value="0.182518115942029" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/activity_main_user.xml" value="0.182518115942029" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/activity_maps.xml" value="0.16530797101449277" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/activity_product.xml" value="0.14764492753623187" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/activity_products.xml" value="0.14175724637681159" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/activity_profile.xml" value="0.18704710144927536" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/activity_register.xml" value="0.1213768115942029" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/activity_security_code.xml" value="0.182518115942029" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/app_bar_main_user.xml" value="0.182518115942029" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/cartdetials.xml" value="0.12364130434782608" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/content_main_user.xml" value="0.182518115942029" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/details.xml" value="0.1" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/edit.xml" value="0.16032608695652173" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/fragment_dashboard.xml" value="0.1358695652173913" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/fragment_gallery.xml" value="0.14764492753623187" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/fragment_home.xml" value="0.182518115942029" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/fragment_slideshow.xml" value="0.182518115942029" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/nav_header_main_user.xml" value="0.18704710144927536" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/product_layout.xml" value="0.18" />
+        <entry key="..\:/FreshMarket/app/src/main/res/layout/section.xml" value="0.18" />
+        <entry key="..\:/FreshMarket/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/FreshMarket/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/FreshMarket/app/src/main/res/menu/main_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/drawable/shpbutton.xml" value="0.153" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_adiuo_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_admin_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_allcategories.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_allproducts.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_cart.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_feedback.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_fullscreen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_main_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_maps.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_products.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/activity_security_code.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/app_bar_main_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/cartdetials.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/content_main_user.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/edit.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/forgetpassword.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/fragment_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/fragment_notifications.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/nav_header_main_user.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/product_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/layout/section.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Eng-Asmaa/Desktop/FreshMarket/app/src/main/res/menu/main_user.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
